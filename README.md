@@ -1,1 +1,1 @@
-## Hallo, I am Serge 👋
+## Hey there, I am Serge 👋
