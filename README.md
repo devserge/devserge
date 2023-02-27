@@ -2,7 +2,9 @@
 I like programming things in PHP, and more specific the framework Laravel. The most projects I am programming for, are closed-source for my own business @GoedkoperVoIP. I am 19 years old and live in The Netherlands, Rotterdam.
 
 ## 🚀 My Projects
-At this moment all the projects I am working on are closed-source. This will change soon.
+The most of the projects I am working on our closed-source for my own company or for clients.
+
+At this moment I am also working on the open-source @bilifyio project.
 
 ## ✨ My Interests
 I am much interested in programming with PHP/Laravel and have a lot of passion for telecommunication service. I am running my own company, providing small businesses VoIP-services.
