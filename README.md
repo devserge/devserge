@@ -1,3 +1,23 @@
-### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=devserge&theme=vue-dark&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devserge&theme=vue-dark&show_icons=true" />
+# Hi there! 👋 I'm Serge
+
+### 🚀 CEO of [CodeIQ B.V.](https://codeiq.nl)
+A Dutch software company delivering innovative and reliable software solutions. We focus on quality, sustainability, and growth. 🌱
+
+### 💻 What I Do
+- **Coding:** Primarily working with **Laravel** and creating custom solutions.
+- **Open-Source:** Actively contributing to the community with projects like:
+  - [`CODEIQBV/laravel-kolmisoft`](https://github.com/CODEIQBV/laravel-kolmisoft)
+  - [`CODEIQBV/laravel-mww`](https://github.com/CODEIQBV/laravel-mww)
+  - [`CODEIQBV/laravel-virtualizor`](https://github.com/CODEIQBV/laravel-virtualizor)
+  - Contributions to [OpenMinetopia](https://github.com/OpenMinetopia):
+    - [`portal`](https://github.com/OpenMinetopia/portal)
+    - [`website`](https://github.com/OpenMinetopia/website)
+
+### 🌟 About Me
+- Passionate about writing code and scalable solutions.
+- Building tools and software that make a difference.
+- 🚀 Always exploring new tech and contributing back to the community.
+
+### 📬 Let's Connect!
+- **GitHub:** [@devserge](https://github.com/devserge)
+- **Website:** [codeiq.nl](https://codeiq.nl)
