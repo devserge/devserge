@@ -1,20 +1,61 @@
 <h1 align="center">Hi 👋, I'm Serge</h1>
-<h3 align="center">I’m a passionate backend developer based in Rotterdam, the city where code flows as freely as the Maas.</h3>
-<h3 align="center">Rotterdam isn’t just my home—it’s my inspiration. From its raw architecture and ever-changing skyline to the energy of the port and the no-nonsense spirit of its people, everything about this city drives my work. It’s bold, it’s resilient, and it’s always building something new—just like me.</h3>
+<h3 align="center">Backend developer from Rotterdam — the city where code flows as freely as the Maas 🌊</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devserge&label=Profile%20views&color=0e75b6&style=flat" alt="devserge" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devserge" alt="devserge" /></a> </p>
+### 🏙 About me
 
-<h3 align="left">Connect with me:</h3>
+I'm a passionate backend developer living and working in **Rotterdam**, the most beautiful city in the world (no, seriously).  
+From the sharp lines of the Erasmusbrug to the endless hustle of Europe’s biggest port, Rotterdam inspires everything I do — bold, no-nonsense, and always building.
+
+I spend most of my time writing clean, maintainable code — preferably in **Laravel** — and trying to avoid meetings.  
+I’m the founder of **[CodeIQ B.V.](https://codeiq.nl)** and unofficially call myself an "entrepreneur"... mostly because "Professional Nerd Who Does Stuff" didn’t fit on the Chamber of Commerce form.
+
+---
+
+### 🚀 Projects I am proud of
+
+I love working on open source. These are some of the things I’m actively building or maintaining:
+
+- [laravel-mww](https://github.com/CODEIQBV/laravel-mww) – Laravel integration for MWW fulfillment
+- [laravel-virtualizor](https://github.com/CODEIQBV/laravel-virtualizor) – Manage Virtualizor VPS servers through Laravel
+- [laravel-kolmisoft](https://github.com/CODEIQBV/laravel-kolmisoft) – Laravel wrapper for the Kolmisoft VoIP API
+- [server-management](https://github.com/CODEIQBV/server-management) – An open-source server management system
+- [sjoppie-api](https://github.com/CODEIQBV/sjoppie-api) – A backend API for a webshop platform
+- [OpenMinetopia Portal](https://github.com/OpenMinetopia/portal) – Helping to shape the future of the iconic Minecraft server
+
+I mainly work together with my partner in crime [@duranaaron](https://github.com/duranaaron) — we like to build serious stuff, but not take ourselves too seriously.
+
+---
+
+### 📈 GitHub Stats
+
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devserge&label=Profile%20views&color=0e75b6&style=flat" alt="devserge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devserge&theme=flat&no-frame=true&column=4" alt="devserge trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devserge&show_icons=true&locale=en&layout=compact" alt="devserge" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devserge&show_icons=true&locale=en" alt="devserge stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devserge&show_icons=true&locale=en" alt="devserge" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devserge" alt="devserge streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devserge&" alt="devserge" /></p>
+---
+
+### 💬 Let's Talk
+
+Whether it’s code, coffee, or just the beauty of Rotterdam’s skyline at sunset — I’m always up for a good conversation.  
+Just don't ask me to switch to Amsterdam... unless it’s for a good Laravel meetup 😄
+
+---
+
+**_Tot snel!_** 👋  
+— Serge
