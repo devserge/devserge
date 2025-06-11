@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serge</h1>
-<h3 align="center">Backend developer from Rotterdam — the city where code flows as freely as the Maas 🌊</h3>
+<h3 align="center">Backend developer from Rotterdam - the city where code flows as freely as the Maas 🌊</h3>
 
 ---
 
@@ -24,7 +24,7 @@ I love working on open source. These are some of the things I’m actively build
 - [sjoppie-api](https://github.com/CODEIQBV/sjoppie-api) – A backend API for a webshop platform
 - [OpenMinetopia Portal](https://github.com/OpenMinetopia/portal) – Helping to shape the future of the iconic Minecraft server
 
-I mainly work together with my partner in crime [@duranaaron](https://github.com/duranaaron) — we like to build serious stuff, but not take ourselves too seriously.
+I mainly work together with my partner in crime [@duranaaron](https://github.com/duranaaron) - we like to build serious stuff, but not take ourselves too seriously.
 
 ---
 
@@ -52,7 +52,7 @@ I mainly work together with my partner in crime [@duranaaron](https://github.com
 
 ### 💬 Let's Talk
 
-Whether it’s code, coffee, or just the beauty of Rotterdam’s skyline at sunset — I’m always up for a good conversation.  
+Whether it’s code, coffee, or just the beauty of Rotterdam’s skyline at sunset - I’m always up for a good conversation.  
 Just don't ask me to switch to Amsterdam... unless it’s for a good Laravel meetup 😄
 
 ---
