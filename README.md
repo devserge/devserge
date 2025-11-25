@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Serge</h1>
+<h1 align="center">Hi, I'm Serge</h1>
 <h3 align="center">Backend developer from Rotterdam - the city where code flows as freely as the Maas 🌊</h3>
 
 ---
 
-### 🏙 About me
+### About me
 
 I'm a passionate backend developer living and working in **Rotterdam**, the most beautiful city in the world (no, seriously).  
-From the sharp lines of the Erasmusbrug to the endless hustle of Europe’s biggest port, Rotterdam inspires everything I do — bold, no-nonsense, and always building.
+From the sharp lines of the Erasmusbrug to the endless hustle of Europe’s biggest port, Rotterdam inspires everything I do - bold, no-nonsense, and always building.
 
-I spend most of my time writing clean, maintainable code — preferably in **Laravel** — and trying to avoid meetings.  
-I’m the founder of **[CodeIQ B.V.](https://codeiq.nl)** and unofficially call myself an "entrepreneur"... mostly because "Professional Nerd Who Does Stuff" didn’t fit on the Chamber of Commerce form.
+I spend most of my time writing clean, maintainable code - preferably in **Laravel** - and trying to avoid meetings.  
+I’m the founder of **[CodeIQ B.V.](https://codeiq.nl)** and unofficially call myself an "entrepreneur"... mostly because "just another nerd" didn’t fit on the Chamber of Commerce form.
 
 ---
 
-### 🚀 Projects I am proud of
+### Projects I am proud of
 
 I love working on open source. These are some of the things I’m actively building or maintaining:
 
@@ -28,7 +28,7 @@ I mainly work together with my partner in crime [@duranaaron](https://github.com
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=devserge&label=Profile%20views&color=0e75b6&style=flat" alt="devserge" />
@@ -50,10 +50,10 @@ I mainly work together with my partner in crime [@duranaaron](https://github.com
 
 ---
 
-### 💬 Let's Talk
+### Let's Talk
 
 Whether it’s code, coffee, or just the beauty of Rotterdam’s skyline at sunset - I’m always up for a good conversation.  
-Just don't ask me to switch to Amsterdam... unless it’s for a good Laravel meetup 😄
+Just don't ask me to switch to Amsterdam... unless it’s for a good Laravel meetup 
 
 ---
 
